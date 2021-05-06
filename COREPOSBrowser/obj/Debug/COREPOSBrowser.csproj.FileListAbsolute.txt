@@ -1,0 +1,9 @@
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\bin\Debug\COREPOSBrowser.exe.config
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\bin\Debug\COREPOSBrowser.exe
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\bin\Debug\COREPOSBrowser.pdb
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.COREPOS.resources
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.Properties.Resources.resources
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.csproj.GenerateResource.cache
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.csproj.CoreCompileInputs.cache
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.exe
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.pdb
