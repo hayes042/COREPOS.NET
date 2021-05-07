@@ -75,7 +75,7 @@
     <Compile Include="BrowserWindow.Designer.cs">
       <DependentUpon>BrowserWindow.cs</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
+    <Compile Include="WebBrowserHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="BrowserWindow.resx">

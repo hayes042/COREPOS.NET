@@ -7,3 +7,4 @@ C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBro
 C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.csproj.CoreCompileInputs.cache
 C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.exe
 C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.pdb
+C:\Users\csather\source\repos\COREPOSBrowser\COREPOSBrowser\obj\Debug\COREPOSBrowser.csprojAssemblyReference.cache

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(COREPOS));
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.webBrowser2 = new System.Windows.Forms.WebBrowser();
             this.COREPOSBrowser = new System.Windows.Forms.WebBrowser();
@@ -61,7 +62,7 @@
             this.COREPOSBrowser.ScrollBarsEnabled = false;
             this.COREPOSBrowser.Size = new System.Drawing.Size(800, 600);
             this.COREPOSBrowser.TabIndex = 2;
-            this.COREPOSBrowser.Url = new System.Uri("http://localhost/IS4C/pos/is4c-nf/gui-modules/login3.php", System.UriKind.Absolute);
+            this.COREPOSBrowser.Url = new System.Uri("http://localhost:82/IS4C/pos/is4c-nf/gui-modules/login3.php", System.UriKind.Absolute);
             this.COREPOSBrowser.WebBrowserShortcutsEnabled = false;
             this.COREPOSBrowser.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webBrowser3_DocumentCompleted);
             // 
@@ -116,9 +117,10 @@
             this.Controls.Add(this.COREPOSBrowser);
             this.Controls.Add(this.webBrowser2);
             this.Controls.Add(this.webBrowser1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "COREPOS";
-            this.Text = "Form1";
+            this.Text = "CORE-POS";
             this.TopMost = true;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
