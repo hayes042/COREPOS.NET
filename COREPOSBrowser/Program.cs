@@ -16,7 +16,7 @@ namespace COREPOSBrowser
         {
             WebBrowserHelper.FixBrowserVersion();
             WebBrowserHelper.FixBrowserVersion("COREPOSBrowser.exe");
-            WebBrowserHelper.FixBrowserVersion("COREPOSBrowser.exe", 11001);
+            WebBrowserHelper.FixBrowserVersion("COREPOSBrowser.exe", 10001);
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
